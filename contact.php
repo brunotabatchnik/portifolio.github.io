@@ -10,9 +10,9 @@ $headers = "from: ". $name;
 
 $corpemail = 'Contat
 
-			name: '     .$name'
-			email: '    .$email'
-			tel: '	   .$tel'
+			name: '     .$name.'
+			email: '    .$email.'
+			tel: '	   .$tel.'
 			message:' .$message.' ';
 
 
