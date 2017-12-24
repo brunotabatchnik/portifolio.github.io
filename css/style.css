@@ -428,7 +428,7 @@ ul#socialbuttons.list-inline{
     margin-top: 50px;
 }
 
-@media only and screen (min-width: 758px) and (max-width: 320px) {
+@media only and screen and (min-width: 758px) and (max-width: 400px) {
 
         .masthead {
             background-image: url(../images/headercel.jpg);
