@@ -428,11 +428,10 @@ ul#socialbuttons.list-inline{
     margin-top: 50px;
 }
 
-@media only and screen and (min-width: 400px){
+@media (min-width: 400px).masthead{
 
-        .masthead {
             background-image: url(../images/headercel.jpg);
-        }
+        
 
 
     }
