@@ -427,3 +427,12 @@ ul#socialbuttons.list-inline{
 .project-text{
     margin-top: 50px;
 }
+
+@media only and screen (min-width: 758px) and (max-width: 320px) {
+
+        .masthead {
+            background-image: url(../images/headercel.jpg);
+        }
+
+
+    }
